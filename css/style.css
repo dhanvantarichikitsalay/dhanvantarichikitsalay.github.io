@@ -59,7 +59,7 @@ body {
     background: linear-gradient(
         rgba(0,0,0,0.45),
         rgba(0,0,0,0.45)
-    ), url("../images/hero.png") center/cover fixed no-repeat;
+    ), url("../images/hero.webp") center/cover fixed no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
