@@ -198,3 +198,35 @@ footer {
         transform 0.4s ease;
 }
 
+.about {
+    background: var(--earth);
+    padding: 80px 20px;
+}
+
+.about-container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.about h2 {
+    color: var(--primary);
+    font-size: 34px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--text-dark);
+    margin-bottom: 15px;
+}
+
+.about-highlight {
+    margin-top: 25px;
+    padding: 20px;
+    background: #ffffff;
+    border-left: 5px solid var(--primary);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
